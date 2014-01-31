@@ -45,4 +45,4 @@ You can install it with [Bower](http://bower.io/).
     bower install hearthstone-cards
 
 ## Suggestions or issues?
-(Send a pull request)[https://github.com/nckg/Hearthstone-Cards/pulls] or [create an issue](https://github.com/nckg/Hearthstone-Cards/issues)
+[Send a pull request](https://github.com/nckg/Hearthstone-Cards/pulls) or [create an issue](https://github.com/nckg/Hearthstone-Cards/issues)
