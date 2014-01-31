@@ -62,7 +62,7 @@
         "health": 1,
         "descr": null,
         "image": "CS2_231",
-        "flavorText": "If you hit an Eredar Lord with enough Wisps, it will explode. &nbsp; But why?"
+        "flavorText": "If you hit an Eredar Lord with enough Wisps, it will explode. But why?"
     },
     {
         "name": "Sen'jin Shieldmasta",
@@ -114,7 +114,7 @@
         "health": 7,
         "descr": "Taunt",
         "image": "EX1_396",
-        "flavorText": "All these guys ever do is talk about the Thunder King. &nbsp; BOOOORRRINNG!"
+        "flavorText": "All these guys ever do is talk about the Thunder King.  BOOOORRRINNG!"
     },
     {
         "name": "Hungry Crab",
@@ -127,7 +127,7 @@
         "health": 2,
         "descr": "Battlecry: Destroy a Murloc and gain +2\/+2.",
         "image": "NEW1_017",
-        "flavorText": "Murloc. &nbsp;It's what's for dinner."
+        "flavorText": "Murloc. It's what's for dinner."
     },
     {
         "name": "Misdirection",
@@ -166,7 +166,7 @@
         "health": 5,
         "descr": "Whenever you cast a spell, summon a 1\/1 Violet Apprentice.",
         "image": "NEW1_026",
-        "flavorText": "If you don't pay attention, you may be turned into a pig. &nbsp;And then you get your name on the board."
+        "flavorText": "If you don't pay attention, you may be turned into a pig. And then you get your name on the board."
     },
     {
         "name": "Arathi Weaponsmith",
@@ -203,9 +203,9 @@
         "mana": 5,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 2 damage to all enemies.  Restore 2 Health to all  friendly characters.",
+        "descr": "Deal 2 damage to all enemies. Restore 2 Health to all  friendly characters.",
         "image": "CS1_112",
-        "flavorText": "If the Holy Light forsakes you, good luck casting this spell. &nbsp;Also, you're probably a jerk."
+        "flavorText": "If the Holy Light forsakes you, good luck casting this spell. Also, you're probably a jerk."
     },
     {
         "name": "Commanding Shout",
@@ -216,7 +216,7 @@
         "mana": 2,
         "attack": 0,
         "health": 0,
-        "descr": "Your minions can't be reduced below 1 Health this turn.  Draw a card.",
+        "descr": "Your minions can't be reduced below 1 Health this turn. Draw a card.",
         "image": "NEW1_036",
         "flavorText": "\"Shout! Shout! Let it all out!\" - Advice to warriors-in-training"
     },
@@ -283,7 +283,7 @@
         "health": 4,
         "descr": "Attack buff only lasts until the end of turn.",
         "image": "EX1_046",
-        "flavorText": "Guardians of Dark Iron Ore. &nbsp; &nbsp;Perhaps the most annoying ore, given where you have to forge it."
+        "flavorText": "Guardians of Dark Iron Ore.   Perhaps the most annoying ore, given where you have to forge it."
     },
     {
         "name": "Charge",
@@ -322,7 +322,7 @@
         "health": 0,
         "descr": "Change a minion's Attack to 1.",
         "image": "EX1_360",
-        "flavorText": "This card makes something really damp. &nbsp;Oh wait. &nbsp;That's \"Humidity.\""
+        "flavorText": "This card makes something really damp. Oh wait. That's \"Humidity.\""
     },
     {
         "name": "Gruul",
@@ -335,7 +335,7 @@
         "health": 7,
         "descr": "At the end of each turn, gain +1\/+1 .",
         "image": "NEW1_038",
-        "flavorText": "He's Gruul \"the Dragonkiller\". &nbsp;He just wanted to cuddle them… he never meant to… "
+        "flavorText": "He's Gruul \"the Dragonkiller\". He just wanted to cuddle them… he never meant to… "
     },
     {
         "name": "Mark of the Wild",
@@ -387,7 +387,7 @@
         "health": 3,
         "descr": "Adjacent minions have +2 Attack.",
         "image": "EX1_565",
-        "flavorText": "Totemsmiths like to use the rarest woods for their totems. &nbsp;There are even rumors of totems made of Ironbark Protectors."
+        "flavorText": "Totemsmiths like to use the rarest woods for their totems. There are even rumors of totems made of Ironbark Protectors."
     },
     {
         "name": "Assassinate",
@@ -439,7 +439,7 @@
         "health": 0,
         "descr": "Destroy a minion. Restore 3 Health to your hero.",
         "image": "EX1_309",
-        "flavorText": "You probably should avoid siphoning your own soul. &nbsp;You might create some kind of weird infinite loop."
+        "flavorText": "You probably should avoid siphoning your own soul. You might create some kind of weird infinite loop."
     },
     {
         "name": "Lay on Hands",
@@ -504,7 +504,7 @@
         "health": 1,
         "descr": "ALL other Murlocs have +1 Attack.",
         "image": "EX1_508",
-        "flavorText": "These are the brainy murlocs. &nbsp;It turns out that doesn’t mean much."
+        "flavorText": "These are the brainy murlocs. It turns out that doesn’t mean much."
     },
     {
         "name": "Lightning Storm",
@@ -543,7 +543,7 @@
         "health": 3,
         "descr": "Battlecry: Give ALL other Murlocs +2 Health.",
         "image": "EX1_103",
-        "flavorText": "The Coldlight murlocs reside in the darkest pits of the Abyssal Depths. &nbsp;So no, there's no getting away from murlocs."
+        "flavorText": "The Coldlight murlocs reside in the darkest pits of the Abyssal Depths. So no, there's no getting away from murlocs."
     },
     {
         "name": "Gorehowl",
@@ -556,7 +556,7 @@
         "health": 0,
         "descr": "Attacking a minion costs 1 Attack instead of 1 Durability.",
         "image": "EX1_411",
-        "flavorText": "Grommash Hellscream's famous axe. &nbsp;Somehow this ended up in Prince Malchezaar's possession. &nbsp;Quite the mystery!"
+        "flavorText": "Grommash Hellscream's famous axe. Somehow this ended up in Prince Malchezaar's possession. Quite the mystery!"
     },
     {
         "name": "Far Sight",
@@ -608,7 +608,7 @@
         "health": 0,
         "descr": "Destroy your weapon and deal its damage to all enemies.",
         "image": "CS2_233",
-        "flavorText": "\"Look, it's not just about waving daggers around really fast. &nbsp;It's a lot more complicated than that.\" - Shan, Rogue Trainer"
+        "flavorText": "\"Look, it's not just about waving daggers around really fast. It's a lot more complicated than that.\" - Shan, Rogue Trainer"
     },
     {
         "name": "Mass Dispel",
@@ -673,7 +673,7 @@
         "health": 3,
         "descr": "At the start of your turn, swap this minion with a random one in your hand.",
         "image": "EX1_006",
-        "flavorText": "WARNING. &nbsp;WARNING. &nbsp;WARNING."
+        "flavorText": "WARNING. WARNING. WARNING."
     },
     {
         "name": "Animal Companion",
@@ -686,7 +686,7 @@
         "health": 0,
         "descr": "Summon a random Beast Companion.",
         "image": "NEW1_031",
-        "flavorText": "You could summon Misha, Leokk, or Huffer! &nbsp;Huffer is more trouble than he's worth."
+        "flavorText": "You could summon Misha, Leokk, or Huffer!  Huffer is more trouble than he's worth."
     },
     {
         "name": "Young Priestess",
@@ -725,7 +725,7 @@
         "health": 0,
         "descr": "Choose One - Deal 5 damage to a minion; or 2 damage to all enemy minions.",
         "image": "NEW1_007",
-        "flavorText": "Is the sky falling? &nbsp;Yes. &nbsp;Yes it is."
+        "flavorText": "Is the sky falling?  Yes. Yes it is."
     },
     {
         "name": "Cone of Cold",
@@ -803,7 +803,7 @@
         "health": 0,
         "descr": "Deal 2 damage.",
         "image": "DS1_185",
-        "flavorText": "Magi conjured arcane arrows to sell to hunters, until hunters learned just enough magic to do it themselves. &nbsp;The resulting loss of jobs sent Stormwind into a minor recession."
+        "flavorText": "Magi conjured arcane arrows to sell to hunters, until hunters learned just enough magic to do it themselves. The resulting loss of jobs sent Stormwind into a minor recession."
     },
     {
         "name": "Void Terror",
@@ -881,7 +881,7 @@
         "health": 4,
         "descr": "Charge. Has +1 Attack for each other Murloc on the battlefield.",
         "image": "EX1_062",
-        "flavorText": "He's a legend among murlocs. &nbsp;\"Mrghllghghllghg!\", they say."
+        "flavorText": "He's a legend among murlocs. \"Mrghllghghllghg!\", they say."
     },
     {
         "name": "Backstab",
@@ -907,7 +907,7 @@
         "health": 3,
         "descr": "ALL other Murlocs have +2\/+1.",
         "image": "EX1_507",
-        "flavorText": "Do Murlocs ever get tired of making the same old sound? &nbsp;Nope! &nbsp;Mrglglrglglglglglglgl!"
+        "flavorText": "Do Murlocs ever get tired of making the same old sound?  Nope!  Mrglglrglglglglglglgl!"
     },
     {
         "name": "Shadowstep",
@@ -920,7 +920,7 @@
         "health": 0,
         "descr": "Return a friendly minion to your hand. It costs (2) less.",
         "image": "EX1_144",
-        "flavorText": "Rogue dance troops will sometimes Shadowstep away at the end of a performance. &nbsp;Crowds love it."
+        "flavorText": "Rogue dance troops will sometimes Shadowstep away at the end of a performance. Crowds love it."
     },
     {
         "name": "Ancestral Spirit",
@@ -946,7 +946,7 @@
         "health": 3,
         "descr": "Battlecry: Give adjacent minions +1\/+1 and Taunt.",
         "image": "EX1_093",
-        "flavorText": "You wouldn’t think that Argus would need this much defending. &nbsp; But it does."
+        "flavorText": "You wouldn’t think that Argus would need this much defending.  But it does."
     },
     {
         "name": "Assassin's Blade",
@@ -959,7 +959,7 @@
         "health": 0,
         "descr": null,
         "image": "CS2_080",
-        "flavorText": "Guaranteed to have been owned by a real assassin. &nbsp; Certificate of authenticity included."
+        "flavorText": "Guaranteed to have been owned by a real assassin.  Certificate of authenticity included."
     },
     {
         "name": "Big Game Hunter",
@@ -972,7 +972,7 @@
         "health": 2,
         "descr": "Battlecry: Destroy a minion with an Attack of 7 or more.",
         "image": "EX1_005",
-        "flavorText": "Mere devilsaurs no longer excite him. &nbsp;Soon he'll be trying to catch Onyxia with only a dull Krol Blade."
+        "flavorText": "Mere devilsaurs no longer excite him. Soon he'll be trying to catch Onyxia with only a dull Krol Blade."
     },
     {
         "name": "Aldor Peacekeeper",
@@ -1063,7 +1063,7 @@
         "health": 5,
         "descr": "Stealth",
         "image": "CS2_161",
-        "flavorText": "Just mail him a package with a name and 10,000 gold. &nbsp;He'll take care of the rest."
+        "flavorText": "Just mail him a package with a name and 10,000 gold. He'll take care of the rest."
     },
     {
         "name": "Ice Lance",
@@ -1076,7 +1076,7 @@
         "health": 0,
         "descr": "Freeze a character. If it was already Frozen, deal 4 damage instead.",
         "image": "CS2_031",
-        "flavorText": "The trick is not to break the lance. &nbsp;Otherwise, you have \"Ice Pieces.\" &nbsp;Ice Pieces aren't as effective."
+        "flavorText": "The trick is not to break the lance. Otherwise, you have \"Ice Pieces.\"  Ice Pieces aren't as effective."
     },
     {
         "name": "Acidic Swamp Ooze",
@@ -1089,7 +1089,7 @@
         "health": 2,
         "descr": "Battlecry: Destroy your opponent's weapon.",
         "image": "EX1_066",
-        "flavorText": "Oozes love Flamenco. &nbsp; Don't ask."
+        "flavorText": "Oozes love Flamenco.  Don't ask."
     },
     {
         "name": "Blessed Champion",
@@ -1139,7 +1139,7 @@
         "mana": 1,
         "attack": 0,
         "health": 0,
-        "descr": "Choose a minion.  Whenever it attacks, draw a card.",
+        "descr": "Choose a minion. Whenever it attacks, draw a card.",
         "image": "EX1_363",
         "flavorText": "Apparently with wisdom comes the knowledge that you should probably be attacking every turn."
     },
@@ -1245,7 +1245,7 @@
         "health": 3,
         "descr": "Battlecry: Silence a minion.",
         "image": "EX1_048",
-        "flavorText": "Spellbreakers can rip enchantments from magic-wielders. &nbsp;The process is painless and can be performed on an outpatient basis."
+        "flavorText": "Spellbreakers can rip enchantments from magic-wielders. The process is painless and can be performed on an outpatient basis."
     },
     {
         "name": "Deadly Poison",
@@ -1258,7 +1258,7 @@
         "health": 0,
         "descr": "Give your weapon +2 Attack.",
         "image": "CS2_074",
-        "flavorText": "Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells. &nbsp;Poisonbolt? Rain of Poison? &nbsp;Poison Elemental? &nbsp;Nobody wants that."
+        "flavorText": "Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells. Poisonbolt? Rain of Poison?  Poison Elemental?  Nobody wants that."
     },
     {
         "name": "Fan of Knives",
@@ -1284,7 +1284,7 @@
         "health": 4,
         "descr": "Taunt",
         "image": "EX1_405",
-        "flavorText": "Have you seen the size of the shields in this game?? &nbsp;This is no easy job."
+        "flavorText": "Have you seen the size of the shields in this game??  This is no easy job."
     },
     {
         "name": "Sense Demons",
@@ -1308,7 +1308,7 @@
         "mana": 3,
         "attack": 0,
         "health": 0,
-        "descr": "Gain 5 Armor.  Draw a card.",
+        "descr": "Gain 5 Armor. Draw a card.",
         "image": "EX1_606",
         "flavorText": "Shields were invented because Face Block is USELESS."
     },
@@ -1349,7 +1349,7 @@
         "health": 2,
         "descr": "Taunt",
         "image": "CS2_121",
-        "flavorText": "Grunting is what his father did and his father before that. &nbsp; It's more than just a job."
+        "flavorText": "Grunting is what his father did and his father before that.  It's more than just a job."
     },
     {
         "name": "Wild Pyromancer",
@@ -1362,7 +1362,7 @@
         "health": 2,
         "descr": "After you cast a spell, deal 1 damage to ALL minions.",
         "image": "NEW1_020",
-        "flavorText": "BOOM BABY BOOM! &nbsp;BAD IS GOOD! &nbsp;DOWN WITH GOVERNMENT!"
+        "flavorText": "BOOM BABY BOOM!  BAD IS GOOD!  DOWN WITH GOVERNMENT!"
     },
     {
         "name": "Razorfen Hunter",
@@ -1375,7 +1375,7 @@
         "health": 3,
         "descr": "Battlecry: Summon a 1\/1 Boar.",
         "image": "CS2_196",
-        "flavorText": "Someone did mess with Tuskerr once. &nbsp;ONCE."
+        "flavorText": "Someone did mess with Tuskerr once. ONCE."
     },
     {
         "name": "Twisting Nether",
@@ -1401,7 +1401,7 @@
         "health": 12,
         "descr": "Spell Damage +5",
         "image": "EX1_563",
-        "flavorText": "Malygos hates it when mortals use magic. &nbsp;He gets so mad!"
+        "flavorText": "Malygos hates it when mortals use magic. He gets so mad!"
     },
     {
         "name": "Millhouse Manastorm",
@@ -1427,7 +1427,7 @@
         "health": 0,
         "descr": "Change a minion's Attack to be equal to its Health.",
         "image": "CS1_129",
-        "flavorText": "Good idea: Buffing your minions. &nbsp;Bad idea: Starting a conversation in the Barrens."
+        "flavorText": "Good idea: Buffing your minions. Bad idea: Starting a conversation in the Barrens."
     },
     {
         "name": "Soul of the Forest",
@@ -1453,7 +1453,7 @@
         "health": 2,
         "descr": "Battlecry: Remove 1 Durability from your opponent's weapon.",
         "image": "NEW1_025",
-        "flavorText": "Every pirate uses the same four digits to access Automated Gold Dispensers. &nbsp;It's called the \"Pirate's Code\"."
+        "flavorText": "Every pirate uses the same four digits to access Automated Gold Dispensers. It's called the \"Pirate's Code\"."
     },
     {
         "name": "Tinkmaster Overspark",
@@ -1490,7 +1490,7 @@
         "mana": 5,
         "attack": 0,
         "health": 0,
-        "descr": "Destroy all minions except one.  (chosen randomly)",
+        "descr": "Destroy all minions except one. (chosen randomly)",
         "image": "EX1_407",
         "flavorText": "Do you know the first rule of Brawl Club?"
     },
@@ -1557,7 +1557,7 @@
         "health": 7,
         "descr": null,
         "image": "CS2_186",
-        "flavorText": "Golems are not afraid, but for some reason they still run when you cast Fear on them. &nbsp;Instinct, maybe? &nbsp;A desire to blend in?"
+        "flavorText": "Golems are not afraid, but for some reason they still run when you cast Fear on them. Instinct, maybe?  A desire to blend in?"
     },
     {
         "name": "Warsong Commander",
@@ -1778,7 +1778,7 @@
         "health": 1,
         "descr": "Battlecry: Deal 1 damage.",
         "image": "CS2_189",
-        "flavorText": "Don't bother asking her out on a date. &nbsp;She'll shoot you down."
+        "flavorText": "Don't bother asking her out on a date. She'll shoot you down."
     },
     {
         "name": "Master Swordsmith",
@@ -1802,9 +1802,9 @@
         "mana": 8,
         "attack": 4,
         "health": 9,
-        "descr": "Charge.  Enrage: +6 Attack",
+        "descr": "Charge. Enrage: +6 Attack",
         "image": "EX1_414",
-        "flavorText": "Grommash drank the tainted blood of Mannoroth, dooming the orcs to green skin and red eyes! &nbsp;Maybe not his best decision."
+        "flavorText": "Grommash drank the tainted blood of Mannoroth, dooming the orcs to green skin and red eyes!  Maybe not his best decision."
     },
     {
         "name": "Sea Giant",
@@ -1817,7 +1817,7 @@
         "health": 8,
         "descr": "Costs (1) less for each other minion on the battlefield.",
         "image": "EX1_586",
-        "flavorText": "See? &nbsp;Giant."
+        "flavorText": "See?  Giant."
     },
     {
         "name": "Doomguard",
@@ -1843,7 +1843,7 @@
         "health": 5,
         "descr": "Windfury, Charge, Divine Shield, Taunt",
         "image": "NEW1_010",
-        "flavorText": "He is the weakest of the four Elemental Lords. &nbsp;And the other three don't let him forget it."
+        "flavorText": "He is the weakest of the four Elemental Lords. And the other three don't let him forget it."
     },
     {
         "name": "Frothing Berserker",
@@ -1869,7 +1869,7 @@
         "health": 0,
         "descr": "Choose One - Give your minions +1\/+1; or Summon a 3\/2 Panther.",
         "image": "EX1_160",
-        "flavorText": "Never look a panther in the eye. &nbsp;Or is it 'Always look a panther in the eye'? &nbsp;Well, it's one of those."
+        "flavorText": "Never look a panther in the eye. Or is it 'Always look a panther in the eye'?  Well, it's one of those."
     },
     {
         "name": "Hellfire",
@@ -1908,7 +1908,7 @@
         "health": 2,
         "descr": "Charge",
         "image": "CS2_213",
-        "flavorText": "One Insane Rocketeer. &nbsp; One Rocket full of Explosives. &nbsp; Infinite Fun."
+        "flavorText": "One Insane Rocketeer.  One Rocket full of Explosives.  Infinite Fun."
     },
     {
         "name": "Power Word: Shield",
@@ -1934,7 +1934,7 @@
         "health": 0,
         "descr": "Draw 2 cards.",
         "image": "CS2_023",
-        "flavorText": "Playing this card makes you SMARTER. &nbsp;And let's face it: we could all stand to be a little smarter."
+        "flavorText": "Playing this card makes you SMARTER. And let's face it: we could all stand to be a little smarter."
     },
     {
         "name": "Nourish",
@@ -2064,7 +2064,7 @@
         "health": 0,
         "descr": "Copy 2 cards from your opponent's deck and put them into your hand.",
         "image": "EX1_339",
-        "flavorText": "\"What do you get when you cast Thoughtsteal on an Orc? &nbsp;Nothing!\" - Tauren joke"
+        "flavorText": "\"What do you get when you cast Thoughtsteal on an Orc?  Nothing!\" - Tauren joke"
     },
     {
         "name": "Scavenging Hyena",
@@ -2077,7 +2077,7 @@
         "health": 2,
         "descr": "Whenever a friendly Beast dies, gain +2\/+1.",
         "image": "EX1_531",
-        "flavorText": "Hyenas prefer the bones of kodos or windserpents, but they'll eat pretty much anything. &nbsp;Even Brussels sprouts."
+        "flavorText": "Hyenas prefer the bones of kodos or windserpents, but they'll eat pretty much anything. Even Brussels sprouts."
     },
     {
         "name": "SI:7 Agent",
@@ -2090,7 +2090,7 @@
         "health": 3,
         "descr": "Combo: Deal 2 damage.",
         "image": "EX1_134",
-        "flavorText": "The agents of SI:7 are responsible for Stormwind's covert activities. &nbsp;Their duties include espionage, assassination, and throwing surprise birthday parties for the royal family."
+        "flavorText": "The agents of SI:7 are responsible for Stormwind's covert activities. Their duties include espionage, assassination, and throwing surprise birthday parties for the royal family."
     },
     {
         "name": "Prophet Velen",
@@ -2155,7 +2155,7 @@
         "health": 3,
         "descr": "Battlecry: The next Secret you play this turn costs (0).",
         "image": "EX1_612",
-        "flavorText": "The Kirin Tor reside in the floating city of Dalaran. &nbsp;How do you make a Dalaran float? &nbsp;Two scoops of ice cream, one scoop of Dalaran."
+        "flavorText": "The Kirin Tor reside in the floating city of Dalaran. How do you make a Dalaran float?  Two scoops of ice cream, one scoop of Dalaran."
     },
     {
         "name": "Thrallmar Farseer",
@@ -2181,7 +2181,7 @@
         "health": 4,
         "descr": "Battlecry: Gain +1\/+1 for each other friendly minion on the battlefield.",
         "image": "CS2_226",
-        "flavorText": "The Frostwolves are locked in combat with the Stormpike Expedition over control of Alterac Valley. &nbsp;Every attempt at peace-talks has ended with Captain Galvangar killing the mediator."
+        "flavorText": "The Frostwolves are locked in combat with the Stormpike Expedition over control of Alterac Valley. Every attempt at peace-talks has ended with Captain Galvangar killing the mediator."
     },
     {
         "name": "Sorcerer's Apprentice",
@@ -2194,7 +2194,7 @@
         "health": 2,
         "descr": "Your spells cost (1) less.",
         "image": "EX1_608",
-        "flavorText": "Apprentices are great for bossing around. &nbsp;\"Conjure me some mana buns! And a coffee! &nbsp;Make that a mana coffee!\""
+        "flavorText": "Apprentices are great for bossing around. \"Conjure me some mana buns! And a coffee!  Make that a mana coffee!\""
     },
     {
         "name": "Holy Fire",
@@ -2205,7 +2205,7 @@
         "mana": 6,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 5 damage.  Restore 5 Health to your hero.",
+        "descr": "Deal 5 damage. Restore 5 Health to your hero.",
         "image": "EX1_624",
         "flavorText": "Often followed by Holy Smokes!"
     },
@@ -2298,7 +2298,7 @@
         "health": 0,
         "descr": "Give your minions Stealth until your next turn.",
         "image": "EX1_128",
-        "flavorText": "Rogues conceal everything but their emotions. &nbsp;You can't get 'em to shut up about feelings."
+        "flavorText": "Rogues conceal everything but their emotions. You can't get 'em to shut up about feelings."
     },
     {
         "name": "Arcanite Reaper",
@@ -2350,7 +2350,7 @@
         "health": 8,
         "descr": "Battlecry: Summon 1\/1 Whelps until your side of the battlefield is full.",
         "image": "EX1_562",
-        "flavorText": "Onyxia long manipulated the Stormwind Court by disguising herself as Lady Katrana Prestor. &nbsp; You would have thought that the giant wings and scales would have been a giveaway."
+        "flavorText": "Onyxia long manipulated the Stormwind Court by disguising herself as Lady Katrana Prestor.  You would have thought that the giant wings and scales would have been a giveaway."
     },
     {
         "name": "Mana Addict",
@@ -2402,7 +2402,7 @@
         "health": 0,
         "descr": "Deal 2 damage.",
         "image": "CS1_130",
-        "flavorText": "It doesn't matter how pious you are. &nbsp;Everyone needs a good smiting now and again."
+        "flavorText": "It doesn't matter how pious you are. Everyone needs a good smiting now and again."
     },
     {
         "name": "Holy Wrath",
@@ -2441,7 +2441,7 @@
         "health": 1,
         "descr": "Charge",
         "image": "CS2_173",
-        "flavorText": "He just wants a hug. &nbsp; A sloppy... slimy... hug."
+        "flavorText": "He just wants a hug.  A sloppy... slimy... hug."
     },
     {
         "name": "Battle Rage",
@@ -2480,7 +2480,7 @@
         "health": 2,
         "descr": "Battlecry: Return a friendly minion from the battlefield to your hand.",
         "image": "EX1_049",
-        "flavorText": "His youthful enthusiasm doesn’t always equal excellence in his brews. &nbsp; Don’t drink the Mogu Stout!"
+        "flavorText": "His youthful enthusiasm doesn’t always equal excellence in his brews.  Don’t drink the Mogu Stout!"
     },
     {
         "name": "The Black Knight",
@@ -2493,7 +2493,7 @@
         "health": 5,
         "descr": "Battlecry: Destroy an enemy minion with Taunt.",
         "image": "EX1_002",
-        "flavorText": "He was sent by the Lich King to disrupt the Argent Tournament. &nbsp; We can pretty much mark that a failure."
+        "flavorText": "He was sent by the Lich King to disrupt the Argent Tournament.  We can pretty much mark that a failure."
     },
     {
         "name": "Demonfire",
@@ -2504,7 +2504,7 @@
         "mana": 2,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 2 damage to a minion.   If it’s a friendly Demon, give it +2\/+2 instead.",
+        "descr": "Deal 2 damage to a minion.  If it’s a friendly Demon, give it +2\/+2 instead.",
         "image": "EX1_596",
         "flavorText": "Demonfire is like regular fire except for IT NEVER STOPS BURNING HELLLPPP"
     },
@@ -2519,7 +2519,7 @@
         "health": 0,
         "descr": "Secret: When one of your minions dies, return it to life with 1 Health.",
         "image": "EX1_136",
-        "flavorText": "I am not sure how you get demptioned the first time. &nbsp;It’s a mystery!"
+        "flavorText": "I am not sure how you get demptioned the first time. It’s a mystery!"
     },
     {
         "name": "Lord Jaraxxus",
@@ -2688,7 +2688,7 @@
         "health": 4,
         "descr": "Battlecry: Give a friendly minion Stealth.",
         "image": "NEW1_014",
-        "flavorText": "She's actually a male tauren. &nbsp;People don't call him \"Master of Disguise\" for nothing."
+        "flavorText": "She's actually a male tauren. People don't call him \"Master of Disguise\" for nothing."
     },
     {
         "name": "Druid of the Claw",
@@ -2701,7 +2701,7 @@
         "health": 4,
         "descr": "Choose One - Charge; or +2 Health and Taunt.",
         "image": "EX1_165",
-        "flavorText": "Cat or Bear? &nbsp;Cat or Bear?! &nbsp;I just cannot CHOOSE!"
+        "flavorText": "Cat or Bear?  Cat or Bear?!  I just cannot CHOOSE!"
     },
     {
         "name": "Auchenai Soulpriest",
@@ -2727,7 +2727,7 @@
         "health": 0,
         "descr": "Give a Beast +2 Attack and Immune this turn.",
         "image": "EX1_549",
-        "flavorText": "The seething wrath is just beneath the surface. &nbsp;Beneath that is wild abandon, followed by slight annoyance."
+        "flavorText": "The seething wrath is just beneath the surface. Beneath that is wild abandon, followed by slight annoyance."
     },
     {
         "name": "Rockbiter Weapon",
@@ -2777,9 +2777,9 @@
         "mana": 1,
         "attack": 0,
         "health": 0,
-        "descr": "Choose an enemy minion.   At the start of your turn, destroy it.",
+        "descr": "Choose an enemy minion.  At the start of your turn, destroy it.",
         "image": "CS2_063",
-        "flavorText": "It starts with stealing a pen from work, and before you know it, BOOM! &nbsp;Corrupted!"
+        "flavorText": "It starts with stealing a pen from work, and before you know it, BOOM!  Corrupted!"
     },
     {
         "name": "Preparation",
@@ -2805,7 +2805,7 @@
         "health": 5,
         "descr": "Deathrattle: Summon a 4\/5 Baine Bloodhoof.",
         "image": "EX1_110",
-        "flavorText": "Cairne was killed by Garrosh, so... don't put this guy in a Warrior deck. &nbsp;It's pretty insensitive."
+        "flavorText": "Cairne was killed by Garrosh, so... don't put this guy in a Warrior deck. It's pretty insensitive."
     },
     {
         "name": "Mortal Strike",
@@ -2816,7 +2816,7 @@
         "mana": 4,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 4 damage.  If your hero has 12 or less Health, deal 6 damage instead.",
+        "descr": "Deal 4 damage. If your hero has 12 or less Health, deal 6 damage instead.",
         "image": "EX1_408",
         "flavorText": "\"If you only use one ability, use Mortal Strike.\" - The Warrior Code, Line 6"
     },
@@ -2844,7 +2844,7 @@
         "health": 4,
         "descr": "Battlecry: Summon a 2\/2 Squire.",
         "image": "CS2_151",
-        "flavorText": "It's good to be a knight. &nbsp; Less so to be one's squire."
+        "flavorText": "It's good to be a knight.  Less so to be one's squire."
     },
     {
         "name": "Guardian of Kings",
@@ -2870,7 +2870,7 @@
         "health": 4,
         "descr": "Battlecry: Return a friendly minion from the battlefield to your hand.",
         "image": "EX1_057",
-        "flavorText": "Most pandaren say his brew tastes like yak. &nbsp;But apparently that's a compliment."
+        "flavorText": "Most pandaren say his brew tastes like yak. But apparently that's a compliment."
     },
     {
         "name": "Young Dragonhawk",
@@ -2922,7 +2922,7 @@
         "health": 6,
         "descr": "Your minions cost (3) more.",
         "image": "CS2_227",
-        "flavorText": "No Job is too big. &nbsp;No fee is too big."
+        "flavorText": "No Job is too big. No fee is too big."
     },
     {
         "name": "Sacrificial Pact",
@@ -2946,7 +2946,7 @@
         "mana": 5,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 2 damage to a character.  If that kills it, summon a random Demon.",
+        "descr": "Deal 2 damage to a character. If that kills it, summon a random Demon.",
         "image": "EX1_320",
         "flavorText": "My advice to you is to avoid Doom, if possible."
     },
@@ -2974,7 +2974,7 @@
         "health": 3,
         "descr": "Whenever a minion dies, gain +1 Attack.",
         "image": "tt_004",
-        "flavorText": "'Flesheating' is an unfair name. &nbsp;It's just that there's not really much else for him to eat."
+        "flavorText": "'Flesheating' is an unfair name. It's just that there's not really much else for him to eat."
     },
     {
         "name": "Loot Hoarder",
@@ -3013,7 +3013,7 @@
         "health": 7,
         "descr": "Deathrattle: Summon a 3\/3 Finkle Einhorn for your opponent.",
         "image": "EX1_577",
-        "flavorText": "He lives in Blackrock Mountain. &nbsp;He eats Gnomes. &nbsp;That's pretty much it."
+        "flavorText": "He lives in Blackrock Mountain. He eats Gnomes. That's pretty much it."
     },
     {
         "name": "Flame Imp",
@@ -3026,7 +3026,7 @@
         "health": 2,
         "descr": "Battlecry: Deal 3 damage to your hero.",
         "image": "EX1_319",
-        "flavorText": "Imps like being on fire. &nbsp;They just do."
+        "flavorText": "Imps like being on fire. They just do."
     },
     {
         "name": "Freezing Trap",
@@ -3091,7 +3091,7 @@
         "health": 6,
         "descr": "Taunt",
         "image": "CS1_069",
-        "flavorText": "He used to be called Bog Beast, but it confused people because he wasn't an actual beast. &nbsp; Boom, New Name!"
+        "flavorText": "He used to be called Bog Beast, but it confused people because he wasn't an actual beast.  Boom, New Name!"
     },
     {
         "name": "Starfire",
@@ -3102,9 +3102,9 @@
         "mana": 6,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 5 damage.  Draw a card.",
+        "descr": "Deal 5 damage. Draw a card.",
         "image": "EX1_173",
-        "flavorText": "Balance is important to druids. &nbsp;This card is perfectly balanced."
+        "flavorText": "Balance is important to druids. This card is perfectly balanced."
     },
     {
         "name": "Goldshire Footman",
@@ -3128,9 +3128,9 @@
         "mana": 8,
         "attack": 8,
         "health": 8,
-        "descr": "Can't Attack.  At the end of your turn, deal 8 damage to a random enemy.",
+        "descr": "Can't Attack. At the end of your turn, deal 8 damage to a random enemy.",
         "image": "EX1_298",
-        "flavorText": "Ragnaros was summoned by the Dark Iron dwarves, who were eventually enslaved by the Firelord. &nbsp;Summoning Ragnaros often doesn’t work out the way you want it to."
+        "flavorText": "Ragnaros was summoned by the Dark Iron dwarves, who were eventually enslaved by the Firelord. Summoning Ragnaros often doesn’t work out the way you want it to."
     },
     {
         "name": "Rampage",
@@ -3143,7 +3143,7 @@
         "health": 0,
         "descr": "Give a damaged minion +3\/+3.",
         "image": "CS2_104",
-        "flavorText": "Minion get ANGRY. &nbsp; Minion SMASH!"
+        "flavorText": "Minion get ANGRY.  Minion SMASH!"
     },
     {
         "name": "Captain's Parrot",
@@ -3169,7 +3169,7 @@
         "health": 5,
         "descr": "Windfury",
         "image": "EX1_033",
-        "flavorText": "Harpies are not pleasant sounding. &nbsp;That's the nicest I can put it."
+        "flavorText": "Harpies are not pleasant sounding. That's the nicest I can put it."
     },
     {
         "name": "Stranglethorn Tiger",
@@ -3232,7 +3232,7 @@
         "mana": 1,
         "attack": 0,
         "health": 0,
-        "descr": "If you have a weapon, give it +1\/+1.  Otherwise equip a 1\/3 weapon.",
+        "descr": "If you have a weapon, give it +1\/+1. Otherwise equip a 1\/3 weapon.",
         "image": "EX1_409",
         "flavorText": "Easily worth 50 DKP."
     },
@@ -3273,7 +3273,7 @@
         "health": 4,
         "descr": "At the end of your turn, you have a 50% chance to draw a card.",
         "image": "EX1_557",
-        "flavorText": "Nat Pagle, Azeroth's premier fisherman! &nbsp;He invented the Auto-Angler 3000, the Extendo-Pole 3000, and the Lure-o-matic 2099 (still in testing)."
+        "flavorText": "Nat Pagle, Azeroth's premier fisherman!  He invented the Auto-Angler 3000, the Extendo-Pole 3000, and the Lure-o-matic 2099 (still in testing)."
     },
     {
         "name": "Houndmaster",
@@ -3286,7 +3286,7 @@
         "health": 3,
         "descr": "Battlecry: Give a friendly Beast +2\/+2 and Taunt.",
         "image": "DS1_070",
-        "flavorText": "\"Who let the dogs out?\" he asks. &nbsp;It's rhetorical."
+        "flavorText": "\"Who let the dogs out?\" he asks. It's rhetorical."
     },
     {
         "name": "Water Elemental",
@@ -3299,7 +3299,7 @@
         "health": 6,
         "descr": "Freeze any character damaged by this minion.",
         "image": "CS2_033",
-        "flavorText": "Don't summon a water elemental at a party. &nbsp;It'll dampen the mood."
+        "flavorText": "Don't summon a water elemental at a party. It'll dampen the mood."
     },
     {
         "name": "Eaglehorn Bow",
@@ -3325,7 +3325,7 @@
         "health": 7,
         "descr": "Whenever you cast a spell, put a 'Fireball' spell into your hand.",
         "image": "EX1_559",
-        "flavorText": "Antonidas was the Grand Magus of the Kirin Tor, and Jaina's mentor. &nbsp;This was a big step up from being Grand Magus of Jelly Donuts."
+        "flavorText": "Antonidas was the Grand Magus of the Kirin Tor, and Jaina's mentor. This was a big step up from being Grand Magus of Jelly Donuts."
     },
     {
         "name": "Kill Command",
@@ -3336,7 +3336,7 @@
         "mana": 3,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 3 damage.  If you have a Beast, deal 5 damage instead.",
+        "descr": "Deal 3 damage. If you have a Beast, deal 5 damage instead.",
         "image": "EX1_539",
         "flavorText": "\"Kill!\", he commanded."
     },
@@ -3390,7 +3390,7 @@
         "health": 5,
         "descr": "Battlecry: Restore 2 Health to all friendly characters.",
         "image": "DS1_055",
-        "flavorText": "Healing is just something she does in her free time. &nbsp; It's more of a hobby really."
+        "flavorText": "Healing is just something she does in her free time.  It's more of a hobby really."
     },
     {
         "name": "Shadowform",
@@ -3416,7 +3416,7 @@
         "health": 0,
         "descr": "Freeze all enemy minions.",
         "image": "CS2_026",
-        "flavorText": "Hey man, that's cold. &nbsp;Literally and metaphorically."
+        "flavorText": "Hey man, that's cold. Literally and metaphorically."
     },
     {
         "name": "Mirror Entity",
@@ -3442,7 +3442,7 @@
         "health": 0,
         "descr": "Secret: When your opponent casts a spell, Counter it.",
         "image": "EX1_287",
-        "flavorText": "What's the difference between a mage playing with Counterspell and a mage who isn't? &nbsp;The mage who isn't is getting Pyroblasted in the face."
+        "flavorText": "What's the difference between a mage playing with Counterspell and a mage who isn't?  The mage who isn't is getting Pyroblasted in the face."
     },
     {
         "name": "Magma Rager",
@@ -3481,7 +3481,7 @@
         "health": 6,
         "descr": "Battlecry: Summon an AWESOME invention.",
         "image": "EX1_112",
-        "flavorText": "He's the leader of the gnomes, and an incredible inventor. &nbsp;He's getting better, too; He turns things into chickens WAY less than he used to."
+        "flavorText": "He's the leader of the gnomes, and an incredible inventor. He's getting better, too; He turns things into chickens WAY less than he used to."
     },
     {
         "name": "Inner Rage",
@@ -3520,7 +3520,7 @@
         "health": 0,
         "descr": "Windfury, Overload: (2)",
         "image": "EX1_567",
-        "flavorText": "Orgrim Doomhammer gave this legendary weapon to Thrall. &nbsp;His name is a total coincidence."
+        "flavorText": "Orgrim Doomhammer gave this legendary weapon to Thrall. His name is a total coincidence."
     },
     {
         "name": "Tracking",
@@ -3546,7 +3546,7 @@
         "health": 0,
         "descr": "Deal 6 damage.",
         "image": "CS2_029",
-        "flavorText": "This spell is useful for burning things. &nbsp;If you're looking for spells that toast things, or just warm them a little, you're in the wrong place."
+        "flavorText": "This spell is useful for burning things. If you're looking for spells that toast things, or just warm them a little, you're in the wrong place."
     },
     {
         "name": "Booty Bay Bodyguard",
@@ -3598,7 +3598,7 @@
         "health": 0,
         "descr": "Deal 4 damage to a minion.",
         "image": "CS2_057",
-        "flavorText": "It’s a Bolt. &nbsp; Its made out of Shadow. &nbsp; What more do you need to know!"
+        "flavorText": "It’s a Bolt.  Its made out of Shadow.  What more do you need to know!"
     },
     {
         "name": "Ethereal Arcanist",
@@ -3637,7 +3637,7 @@
         "health": 3,
         "descr": "Destroy any minion damaged by this minion.",
         "image": "EX1_170",
-        "flavorText": "The Sholazar Basin is home to a lot of really horrible things. If you're going to visit, wear bug spray. &nbsp;And plate armor."
+        "flavorText": "The Sholazar Basin is home to a lot of really horrible things. If you're going to visit, wear bug spray. And plate armor."
     },
     {
         "name": "Deadly Shot",
@@ -3650,7 +3650,7 @@
         "health": 0,
         "descr": "Destroy a random enemy minion.",
         "image": "EX1_617",
-        "flavorText": "Accuracy is not a highly valued trait among the mok'nathal. &nbsp;Deadliness is near the top, though."
+        "flavorText": "Accuracy is not a highly valued trait among the mok'nathal. Deadliness is near the top, though."
     },
     {
         "name": "Claw",
@@ -3676,7 +3676,7 @@
         "health": 0,
         "descr": "Deal 5 damage to a minion and 2 damage to adjacent ones.",
         "image": "EX1_537",
-        "flavorText": "Pull the pin, count to 5, then shoot. &nbsp;Then duck."
+        "flavorText": "Pull the pin, count to 5, then shoot. Then duck."
     },
     {
         "name": "Avenging Wrath",
@@ -3702,7 +3702,7 @@
         "health": 2,
         "descr": "Battlecry: Give a friendly minion Divine Shield.",
         "image": "EX1_362",
-        "flavorText": "\"I'm not saying you can dodge fireballs. &nbsp;I'm saying with this shield, you won't have to.\""
+        "flavorText": "\"I'm not saying you can dodge fireballs. I'm saying with this shield, you won't have to.\""
     },
     {
         "name": "Felguard",
@@ -3715,7 +3715,7 @@
         "health": 5,
         "descr": "Taunt. Battlecry: Destroy one of your Mana Crystals.",
         "image": "EX1_301",
-        "flavorText": "Yes, he'll fight for you. &nbsp;BUT HE'S NOT GOING TO LIKE IT."
+        "flavorText": "Yes, he'll fight for you. BUT HE'S NOT GOING TO LIKE IT."
     },
     {
         "name": "Northshire Cleric",
@@ -3728,7 +3728,7 @@
         "health": 3,
         "descr": "Whenever a minion is healed, draw a card.",
         "image": "CS2_235",
-        "flavorText": "They help the downtrodden and distressed. &nbsp;Also they sell cookies."
+        "flavorText": "They help the downtrodden and distressed. Also they sell cookies."
     },
     {
         "name": "Leper Gnome",
@@ -3767,7 +3767,7 @@
         "health": 0,
         "descr": "Secret: When your opponent plays a minion, deal 4 damage to it.",
         "image": "EX1_609",
-        "flavorText": "A great sniper hits the spot. &nbsp;Just like a delicious flank of boar. Mmmmm."
+        "flavorText": "A great sniper hits the spot. Just like a delicious flank of boar. Mmmmm."
     },
     {
         "name": "Southsea Captain",
@@ -3780,7 +3780,7 @@
         "health": 3,
         "descr": "Your other Pirates have +1\/+1.",
         "image": "NEW1_027",
-        "flavorText": "When he saves enough plunder, he's going to commission an enormous captain's hat. &nbsp;He has hat envy."
+        "flavorText": "When he saves enough plunder, he's going to commission an enormous captain's hat. He has hat envy."
     },
     {
         "name": "Bite",
@@ -3858,7 +3858,7 @@
         "health": 0,
         "descr": "Change a minion's Health to 1.",
         "image": "CS2_084",
-        "flavorText": "Never play 'Hide and Go Seek' with a &nbsp;Hunter."
+        "flavorText": "Never play 'Hide and Go Seek' with a  Hunter."
     },
     {
         "name": "Dalaran Mage",
@@ -3884,7 +3884,7 @@
         "health": 1,
         "descr": "Battlecry: Gain +1 Health for each card in your hand.",
         "image": "EX1_043",
-        "flavorText": "Twilight drakes feed on Mystical Energy. &nbsp;And Tacos."
+        "flavorText": "Twilight drakes feed on Mystical Energy. And Tacos."
     },
     {
         "name": "Coldlight Oracle",
@@ -3897,7 +3897,7 @@
         "health": 2,
         "descr": "Battlecry: Each player draws 2 cards.",
         "image": "EX1_050",
-        "flavorText": "They can see the future. &nbsp; In that future both players draw more cards. &nbsp; Spoooky."
+        "flavorText": "They can see the future.  In that future both players draw more cards.  Spoooky."
     },
     {
         "name": "Molten Giant",
@@ -3910,7 +3910,7 @@
         "health": 8,
         "descr": "Costs (1) less for each damage your hero has taken.",
         "image": "EX1_620",
-        "flavorText": "He gets terrible heartburn. &nbsp;BECAUSE HE IS FULL OF LAVA."
+        "flavorText": "He gets terrible heartburn. BECAUSE HE IS FULL OF LAVA."
     },
     {
         "name": "Shadowflame",
@@ -3962,7 +3962,7 @@
         "health": 5,
         "descr": "Choose One - Taunt and +5 Health; or +5 Attack.",
         "image": "EX1_178",
-        "flavorText": "Young Night Elves love to play \"Who can get the Ancient of War to Uproot?\" &nbsp;You lose if you get crushed to death."
+        "flavorText": "Young Night Elves love to play \"Who can get the Ancient of War to Uproot?\"  You lose if you get crushed to death."
     },
     {
         "name": "Stormwind Champion",
@@ -3988,7 +3988,7 @@
         "health": 0,
         "descr": "Deal 4 damage to an enemy and 1 damage to all other enemies.",
         "image": "CS2_012",
-        "flavorText": "When a bear rears back and extends his arms, he's about to Swipe! &nbsp;... or hug."
+        "flavorText": "When a bear rears back and extends his arms, he's about to Swipe!  ... or hug."
     },
     {
         "name": "Hex",
@@ -4014,7 +4014,7 @@
         "health": 12,
         "descr": "At the end of your turn, draw a Dream Card.",
         "image": "EX1_572",
-        "flavorText": "Ysera rules the Emerald Dream. &nbsp;Which is some kind of green-mirror-version of the real world, or something?"
+        "flavorText": "Ysera rules the Emerald Dream. Which is some kind of green-mirror-version of the real world, or something?"
     },
     {
         "name": "Arcane Golem",
@@ -4079,7 +4079,7 @@
         "health": 0,
         "descr": "Secret: When an enemy casts a spell on a minion, summon a 1\/3 as the new target.",
         "image": "tt_010",
-        "flavorText": "While it's fun to intercept enemy lightning bolts, a spellbender much prefers to intercept opposing Marks of the Wild. &nbsp;It just feels meaner. &nbsp;And blood elves... well, they're a little mean."
+        "flavorText": "While it's fun to intercept enemy lightning bolts, a spellbender much prefers to intercept opposing Marks of the Wild. It just feels meaner. And blood elves... well, they're a little mean."
     },
     {
         "name": "Faerie Dragon",
@@ -4092,7 +4092,7 @@
         "health": 2,
         "descr": "Can't be targeted by Spells or Hero Powers.",
         "image": "NEW1_023",
-        "flavorText": "Adorable. &nbsp;Immune to Magic. &nbsp;Doesn't pee on the rug. &nbsp;The perfect pet!"
+        "flavorText": "Adorable. Immune to Magic. Doesn't pee on the rug. The perfect pet!"
     },
     {
         "name": "Sinister Strike",
@@ -4105,7 +4105,7 @@
         "health": 0,
         "descr": "Deal 3 damage to the enemy hero.",
         "image": "CS2_075",
-        "flavorText": "There's something about this strike that just feels off. &nbsp;Sinister, even."
+        "flavorText": "There's something about this strike that just feels off. Sinister, even."
     },
     {
         "name": "Power Overwhelming",
@@ -4118,7 +4118,7 @@
         "health": 0,
         "descr": "Give a friendly minion +4\/+4 until end of turn. Then, it dies. Horribly.",
         "image": "EX1_316",
-        "flavorText": "We cannot even describe how horrible the death is. &nbsp;It's CRAZY bad! &nbsp;Maybe worse than that. &nbsp;Just don't do it."
+        "flavorText": "We cannot even describe how horrible the death is. It's CRAZY bad!  Maybe worse than that. Just don't do it."
     },
     {
         "name": "Arcane Explosion",
@@ -4144,7 +4144,7 @@
         "health": 0,
         "descr": "Destroy a minion with 3 or less Attack.",
         "image": "CS2_234",
-        "flavorText": "A step up from a spell cast by many beginning &nbsp;acolytes: \"Shadow Word: Annoy\"."
+        "flavorText": "A step up from a spell cast by many beginning  acolytes: \"Shadow Word: Annoy\"."
     },
     {
         "name": "Noble Sacrifice",
@@ -4261,7 +4261,7 @@
         "health": 0,
         "descr": "Secret: When a minion attacks your hero, destroy it.",
         "image": "EX1_594",
-        "flavorText": "Rumor has it that Deathwing brought about the Cataclysm after losing a game to this card. &nbsp;We may never know the truth."
+        "flavorText": "Rumor has it that Deathwing brought about the Cataclysm after losing a game to this card. We may never know the truth."
     },
     {
         "name": "Nozdormu",
@@ -4339,7 +4339,7 @@
         "health": 4,
         "descr": "Your minions cost (2) less, but not less than (1).",
         "image": "EX1_315",
-        "flavorText": "NOT LESS THAN 1! &nbsp;Don't get any ideas!"
+        "flavorText": "NOT LESS THAN 1!  Don't get any ideas!"
     },
     {
         "name": "Hammer of Wrath",
@@ -4350,9 +4350,9 @@
         "mana": 4,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 3 damage.  Draw a card.",
+        "descr": "Deal 3 damage. Draw a card.",
         "image": "CS2_094",
-        "flavorText": "A good paladin has many tools. &nbsp;Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc."
+        "flavorText": "A good paladin has many tools. Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc."
     },
     {
         "name": "Stormwind Knight",
@@ -4391,7 +4391,7 @@
         "health": 0,
         "descr": "Deal 2 damage to all enemies.",
         "image": "CS2_093",
-        "flavorText": "Consecrated ground glows with Holy energy. &nbsp;But it smells a little, too."
+        "flavorText": "Consecrated ground glows with Holy energy. But it smells a little, too."
     },
     {
         "name": "Knife Juggler",
@@ -4404,7 +4404,7 @@
         "health": 2,
         "descr": "After you summon a minion, deal 1 damage to a random enemy.",
         "image": "NEW1_019",
-        "flavorText": "Ambitious Knife Jugglers sometimes graduate to Bomb Jugglers. &nbsp; &nbsp;They never last long enough to make it onto a card though."
+        "flavorText": "Ambitious Knife Jugglers sometimes graduate to Bomb Jugglers.   They never last long enough to make it onto a card though."
     },
     {
         "name": "Ice Barrier",
@@ -4417,7 +4417,7 @@
         "health": 0,
         "descr": "Secret: As soon as your hero is attacked, gain 8 Armor.",
         "image": "EX1_289",
-        "flavorText": "This is Rank 1. &nbsp;Rank 2 is Chocolate Milk Barrier."
+        "flavorText": "This is Rank 1. Rank 2 is Chocolate Milk Barrier."
     },
     {
         "name": "Light's Justice",
@@ -4508,7 +4508,7 @@
         "health": 0,
         "descr": "Choose One - Give a minion +4 Attack; or +4 Health and Taunt.",
         "image": "EX1_155",
-        "flavorText": "Druids call it the \"Mark of Nature.\" &nbsp;Everyone else calls it \"needing a bath.\""
+        "flavorText": "Druids call it the \"Mark of Nature.\"  Everyone else calls it \"needing a bath.\""
     },
     {
         "name": "Shadow Word: Death",
@@ -4547,7 +4547,7 @@
         "health": 0,
         "descr": "Deal 2 damage. Combo: Deal 4 damage instead.",
         "image": "EX1_124",
-        "flavorText": "There is a high cost to Eviscerating your opponent: &nbsp;It takes a long time to get blood stains out of leather armor."
+        "flavorText": "There is a high cost to Eviscerating your opponent:  It takes a long time to get blood stains out of leather armor."
     },
     {
         "name": "Repentance",
@@ -4573,7 +4573,7 @@
         "health": 5,
         "descr": "Taunt. Divine Shield",
         "image": "EX1_032",
-        "flavorText": "She doesn’t ACTUALLY walk on the Sun. &nbsp;It's just a name. &nbsp;Don’t worry!"
+        "flavorText": "She doesn’t ACTUALLY walk on the Sun. It's just a name. Don’t worry!"
     },
     {
         "name": "Slam",
@@ -4584,7 +4584,7 @@
         "mana": 2,
         "attack": 0,
         "health": 0,
-        "descr": "Deal 2 damage to a minion.  If it survives, draw a card.",
+        "descr": "Deal 2 damage to a minion. If it survives, draw a card.",
         "image": "EX1_391",
         "flavorText": "\"Dun da dun, dun da dun\": if you've heard an ogre sing this, it's too late."
     },
@@ -4625,7 +4625,7 @@
         "health": 5,
         "descr": "Whenever you play a card, summon a 2\/1 Flame of Azzinoth.",
         "image": "EX1_614",
-        "flavorText": "Illidan's brother, Malfurion, imprisoned him beneath Hyjal for 10,000 years. &nbsp;Stormrages are not good at letting go of grudges."
+        "flavorText": "Illidan's brother, Malfurion, imprisoned him beneath Hyjal for 10,000 years. Stormrages are not good at letting go of grudges."
     },
     {
         "name": "Alexstrasza",
@@ -4638,7 +4638,7 @@
         "health": 8,
         "descr": "Battlecry: Set a hero's remaining Health to 15.",
         "image": "EX1_561",
-        "flavorText": "Alexstrasza the Life-Binder brings life and hope to everyone. &nbsp;Except Deathwing. &nbsp;And Malygos. &nbsp;And Nekros."
+        "flavorText": "Alexstrasza the Life-Binder brings life and hope to everyone. Except Deathwing. And Malygos. And Nekros."
     },
     {
         "name": "Silence",
@@ -4742,7 +4742,7 @@
         "health": 0,
         "descr": "Give your characters +2 Attack this turn.",
         "image": "CS2_011",
-        "flavorText": "What do they roar? Nobody can quite tell, but it sounds like \"Elephant Macho Breeze\". &nbsp;It's probably not that, though."
+        "flavorText": "What do they roar? Nobody can quite tell, but it sounds like \"Elephant Macho Breeze\". It's probably not that, though."
     },
     {
         "name": "Innervate",
@@ -4807,7 +4807,7 @@
         "health": 4,
         "descr": "At the start of your turn, deal 2 damage to a random enemy.",
         "image": "EX1_102",
-        "flavorText": "Laying siege isn't fun for anyone. &nbsp;It's not even all that effective, now that everyone has a flying mount."
+        "flavorText": "Laying siege isn't fun for anyone. It's not even all that effective, now that everyone has a flying mount."
     },
     {
         "name": "Sunfury Protector",
@@ -4911,7 +4911,7 @@
         "health": 12,
         "descr": "Battlecry: Destroy all other minions and discard your hand.",
         "image": "NEW1_030",
-        "flavorText": "Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated. &nbsp;Daddy issues?"
+        "flavorText": "Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated. Daddy issues?"
     },
     {
         "name": "Stormpike Commando",
@@ -4924,7 +4924,7 @@
         "health": 2,
         "descr": "Battlecry: Deal 2 damage.",
         "image": "CS2_150",
-        "flavorText": "The Stormpike Commandos are demolition experts. &nbsp;They also bake a mean cupcake."
+        "flavorText": "The Stormpike Commandos are demolition experts. They also bake a mean cupcake."
     },
     {
         "name": "Silverback Patriarch",
@@ -4963,6 +4963,6 @@
         "health": 5,
         "descr": "Battlecry: Give both players the power to ROCK! (with a Power Chord card)",
         "image": "PRO_001",
-        "flavorText": "He's looking for a drummer. &nbsp;The current candidates are: Novice Engineer, Sen'jin Shieldmasta', and Ragnaros the Firelord."
+        "flavorText": "He's looking for a drummer. The current candidates are: Novice Engineer, Sen'jin Shieldmasta', and Ragnaros the Firelord."
     }
 ]
