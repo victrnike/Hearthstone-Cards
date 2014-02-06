@@ -22,7 +22,7 @@ A list of of all existing cards in "Hearthstone: Heroes of Warcraft" (a game by 
 }
 ```
 
-![Ysera](https://raw.github.com/nckg/Hearthstone-Cards/master/cards/EX1_572.png)
+![Ysera](https://raw.github.com/nckg/Hearthstone-Cards/master/cards/original/EX1_572.png)
 
 ### Class specific cards
 
@@ -43,7 +43,7 @@ A list of of all existing cards in "Hearthstone: Heroes of Warcraft" (a game by 
 }
 ```
 
-![King Krush](https://raw.github.com/nckg/Hearthstone-Cards/master/cards/EX1_543.png)
+![King Krush](https://raw.github.com/nckg/Hearthstone-Cards/master/cards/original/EX1_543.png)
 
 ## Bower
 
