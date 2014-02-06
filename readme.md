@@ -2,6 +2,8 @@
 
 A list of of all existing cards in "Hearthstone: Heroes of Warcraft" (a game by [Blizzard](blizzard.com)) in JSON format. Images of the cards are included.
 
+**The entire repository is 122.1MB in size.**
+
 ## Example
 
 ### Common cards
